@@ -21,9 +21,10 @@ Your game is going to need to load resources: images, audio files, JSON data, ma
 ## **--Part 2 - Installing a web server--**
 * "http-server" *Serving up static files like they were turtles strapped to rockets*
 * https://www.npmjs.com/package/http-server | `npm install http-server`
-* Run the server locally by:
+* Run the server locally by: `npm run server`
 
 ## **--Part 4 - Downloading Phaser--**
+* imported via CDN right now - l4 of `index.html`
 
 
 <!-- ## https://phaser.io/tutorials/making-your-first-phaser-3-game 
