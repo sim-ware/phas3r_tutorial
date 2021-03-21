@@ -1,6 +1,6 @@
 # Phaser 3 Beginnings
 # https://phaser.io/tutorials/getting-started-phaser3
-## **Part 1 - Introduction**
+## **--Part 1 - Introduction--**
 In this tutorial we're going to cover setting-up a development environment with which you can build your Phaser games. This will include running a local web server, picking an IDE, getting the latest version of Phaser and checking it all works together.
 
     "Why do I need a local web server? Can't I just drag the html files onto my browser?"
@@ -18,8 +18,13 @@ Because this is so dangerous browsers lock themselves down tighter than Alcatraz
 
 Your game is going to need to load resources: images, audio files, JSON data, maybe other JavaScript files. And in order to do this it needs to run unhindered by the browser security shackles. It needs http:// access to the game files. And for that we need a web server.
 
-## **Part 2 - Installing a web server**
+## **--Part 2 - Installing a web server--**
+* "http-server" *Serving up static files like they were turtles strapped to rockets*
+* https://www.npmjs.com/package/http-server | `npm install http-server`
+* Run the server locally by:
+
+## **--Part 4 - Downloading Phaser--**
 
 
-## https://phaser.io/tutorials/making-your-first-phaser-3-game 
-Tutorial for a Phaser 3 simple star collecting game.
+<!-- ## https://phaser.io/tutorials/making-your-first-phaser-3-game 
+Tutorial for a Phaser 3 simple star collecting game. -->

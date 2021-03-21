@@ -4,7 +4,8 @@
   "description": "phas3r setup and tutorial guide",
   "main": "none",
   "scripts": {
-    "test": "none"
+    "test": "none",
+    "server": "http-server"
   },
   "repository": {
     "type": "git",
