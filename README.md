@@ -1,4 +1,6 @@
-# phas3r_tutorial
-Setup and tutorial for Phaser 3 - A simple star collecting game.
+# Phaser 3 Tutorial
+### https://phaser.io/tutorials/getting-started-phaser3
+Introduction to setup of Phaser 3 and a beginner's dev environment
 
-The instructions for this game can be found here: https://phaser.io/tutorials/making-your-first-phaser-3-game 
+### https://phaser.io/tutorials/making-your-first-phaser-3-game 
+Tutorial for a Phaser 3 simple star collecting game.
