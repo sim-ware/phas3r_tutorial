@@ -1,0 +1,22 @@
+{
+  "name": "phas3r_tutorial",
+  "version": "1.0.0",
+  "description": "phas3r setup and tutorial guide",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sim-ware/phas3r_tutorial.git"
+  },
+  "author": "sim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sim-ware/phas3r_tutorial/issues"
+  },
+  "homepage": "https://github.com/sim-ware/phas3r_tutorial#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
