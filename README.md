@@ -25,6 +25,7 @@ Your game is going to need to load resources: images, audio files, JSON data, ma
 
 ## **--Part 4 - Downloading Phaser--**
 * imported via CDN right now - l4 of `index.html`
+* Phas3r links for download advice & options: https://phaser.io/download/stable
 
 
 <!-- ## https://phaser.io/tutorials/making-your-first-phaser-3-game 
